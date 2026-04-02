@@ -29,7 +29,7 @@ This project includes product browsing, cart management, authentication, and ord
 ## 📁 Project Structure
 
 ```text
-TASK3/
+TASK/
 ├── ecommerce-frontend/
 ├── ecommerce-backend/
 └── README.md
