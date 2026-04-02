@@ -1,4 +1,4 @@
-# TASK3 – E-commerce App (MERN)
+# E-commerce App (MERN)
 
 A full-stack **E-commerce web application** built with the **MERN stack**.  
 This project includes product browsing, cart management, authentication, and order-related workflows.
@@ -43,7 +43,7 @@ TASK3/
 
 ```bash
 git clone <your-repo-url>
-cd TASK3
+cd 
 ```
 
 ### 2) Setup backend
