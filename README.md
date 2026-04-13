@@ -98,7 +98,6 @@ In project folders (`ecommerce-frontend` / `ecommerce-backend`):
 
 ## 📸 Screenshots
 
-> Add screenshots here for better presentation on GitHub.
 
 ---
 
